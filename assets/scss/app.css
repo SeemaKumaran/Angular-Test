@@ -1,0 +1,89 @@
+body {
+  padding: 32px;
+  margin-left: 100px;
+  font-family: "Helvetica";
+  font-size: 16px; }
+
+#reOrderItemsLabel {
+  font-family: "Helvetica";
+  font-weight: normal;
+  font-size: 32px;
+  color: #4d4d4d; }
+
+#subHeadingLabel {
+  color: #888;
+  height: 10px;
+  font-size: 14px;
+  font-weight: bold;
+  margin-left: 40px; }
+
+#reviews {
+  color: #888;
+  height: 10px;
+  font-size: 12px;
+  font-weight: bold; }
+
+#subHeadingValue {
+  color: black;
+  height: 10px;
+  font-size: 11px;
+  font-weight: bold; }
+
+.redBtn {
+  color: #FFF;
+  background-color: #C00;
+  border: none;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: bold;
+  height: 42px;
+  line-height: 32px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  white-space: nowrap;
+  width: 182px; }
+
+.redBtn:hover {
+  background-color: darkred; }
+
+.grayBtn {
+  color: #FFF;
+  background-color: #666;
+  border: none;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: bold;
+  height: 42px;
+  line-height: 32px;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  white-space: nowrap;
+  width: 110px; }
+
+.redBtn:hover {
+  background-color: darkred; }
+
+.grayBtn:hover {
+  background-color: darkgray; }
+
+#itemNumber {
+  color: darkgray;
+  font-family: "Helvetica";
+  font-weight: bold;
+  font-size: 12px; }
+
+#itemModel {
+  color: gray;
+  font-family: "Helvetica";
+  font-weight: bold;
+  font-size: 12px; }
+
+#favoriteCtrl {
+  color: blue;
+  text-decoration: none; }
+
+/*# sourceMappingURL=app.css.map */
